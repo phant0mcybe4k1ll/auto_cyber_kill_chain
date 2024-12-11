@@ -1,7 +1,7 @@
 ![Logo]()
 <h1 align="center">
   <br>
-  <a href="https://github.com/phant0mcybe4k1ll/auto_cyber_kill_chain"><img src="https://github.com/phant0mcybe4k1ll/auto_cyber_kill_chain/blob/main/ressources/images/cyber_kill_chain.png" alt="Markdownify" width="200"></a>
+  <a href="https://github.com/phant0mcybe4k1ll/auto_cyber_kill_chain"><img src="https://github.com/phant0mcybe4k1ll/auto_cyber_kill_chain/blob/main/ressources/images/cyber_kill_chain.png" alt="Cyber Kill Chain" ></a>
   <br>
   Cyber Kill Chain Automatisation
   <br>
