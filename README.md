@@ -1,4 +1,4 @@
 # auto_cyber_kill_chain
 A tool used to automate all phases of the cyber kill chain
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://github.com/phant0mcybe4k1ll/auto_cyber_kill_chain/blob/main/ressources/images/cyber_kill_chain.png)
