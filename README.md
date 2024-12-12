@@ -72,6 +72,7 @@ The stage represent the Input-Output identification & categorization, any attack
     - Individuals : When it cames into personnal informations gathering, credentials theft, spying & remote controling personnal devices
     - Information Systems : When it comes into Entreprises (Private or Governemental) information systems, services, networks & critical IT infrastructures.
     - Operationnal Systems : when it cames into operational technologies, firmwares, networkd and infrastructures.
+    - public ressources : when it cames to unkown targets, for botnets creation.
 
 3. ## Objectives Identification :
     Before Entering in any sort of cyber attack, the attacker needs to identify his objectives and intetions behind the attack in order to estimate the effort and time and limit actions in the last stage and ofcourse in the contexte of our tool is for helping identifying the order of the PATHS. 
@@ -79,13 +80,43 @@ The stage represent the Input-Output identification & categorization, any attack
     In our case we need to categories our objectives also, and for that we have prepared a baunch of questions that helps the attackes limit his objectives to a specific classe or category. 
 
 4. ## Objectives categorizing :
-    - 
+    These objectives guide the attacker's actions and the strategies they employ during the cyber kill chain process : 
 
+    - Data Exfiltration : teal sensitive data such as intellectual property, personal identifiable information (PII), financial records, or classified government documents.
+
+    - Financial Gain : Directly or indirectly steal money or resources (blackmailing with ransomware for crypto).
+
+    - Spying (Espionage ) : Conduct espionage to gain access to proprietary information, intellectual property, or national secrets.  
+
+    - Reputation Damage : Damage the reputation of an individual, organization, or government entity by exposing sensitive or embarrassing information.
+
+    - Disruption / Denial of Service : Disrupt or deny access to services, systems, or networks, causing downtime or operational disruption.
+
+    - Sabotage / Destruction : sabotage operations, damage assets, or retaliate against an organization or government.
+
+    - Compromising Critical Infrastructure : Gain control over or disrupt critical infrastructure, such as power grids, water supplies, or transportation systems.
+
+    - Recruitment of Bots for Botnets : refers to the process of infecting devices with malware in order to add them to a botnet.
+
+
+5. ## Anounimyzing : 
+  Finnaly, we're starting some reel technical aspects. we are with you don't bother your self all cyber security community (Red teams or Blue Teams) hate the theorical part of the domaine.
+
+  In this part we gonna take you throw the most important thing that you wanna do before engaging in an attack, and i think when we all read and learn about different type of attacks a natural emotion cames to our body that gives you energy to start and trying those attacks in reel life, but any concus person knows that those attacks are illegal and low enforcement wont go easy on you.
+
+  So, here we are going to learn about technics that helps you anounimyze your real identity in the cybers-space. and for that we create a hol repository that contains a All In one tool that helps you anounimyzea your netwok traffic [link to our Anounimizing repository]() that descus those points:
+
+  - Temporary emails :
+  - Removable devices :
+  - Proxy / VPNs :
+  - Tor Network & Union browsing : (talk about the need to disable the java script + secure mail services and file sharing) 
+  - Crypto currency :
+  - Metadata Stripping
 
 ## Recon
-1. Additional browser support
-2. Add more integrations
-3. As an output we need to identify the level of security 
+  1. Passive Recon :
+  2. Active Recon :
+  we need to understant the tools in order to create some thing automared. 
 
 ## Weaponization
 1. Implement new attack vectors
